@@ -23,7 +23,7 @@ This Go script performs network port scanning and identifies potential security 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/network-port-mapper.git  (Replace with your repo URL)
+   git clone https://github.com/saleheddinetouil/net-vuln-scan.git  (Replace with your repo URL)
    cd network-port-mapper
    ```
 
